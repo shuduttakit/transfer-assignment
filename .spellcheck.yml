@@ -3,4 +3,4 @@ matrix:
 - name: Text Files
   sources:
   - "**/*.txt"
-  - "**/*.md"
+  - "**/*.md|!how-to-use-git.md"
